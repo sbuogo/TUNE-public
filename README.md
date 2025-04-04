@@ -1,6 +1,6 @@
 # TUNE-public
 
-** TUNE - Tool for Underwater Noise Evaluation **
+**TUNE - Tool for Underwater Noise Evaluation**
 
 This public repository is meant as a temporary location for exchanging contents with main TUNE private repository.
 Access to TUNE contents will be granted temporarily and on an individual basis. 
