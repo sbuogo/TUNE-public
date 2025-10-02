@@ -2,9 +2,9 @@
 
 **TUNE - Tool for Underwater Noise Evaluation**
 
-This public repository is meant as a temporary location for exchanging contents with main TUNE private repository.
-Access to TUNE contents will be granted temporarily and on an individual basis. 
-Please contact silvano.buogo@cnr.it to obtain more contents related to TUNE.
+This public repository is meant as a location for downloading selected contents of main TUNE private repository.
+TUNE contents listed here allow users to install and run the latest program version once it is tested and released. 
+Please contact silvano.buogo@cnr.it to obtain more contents related to TUNE including source code.
 
 TUNE is a standalone Windows (R) application developed under Matlab (R) for analysis of underwater audio files in WAV format.
 
