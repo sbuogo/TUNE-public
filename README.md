@@ -4,7 +4,7 @@
 
 This public repository is meant as a temporary location for exchanging contents with main TUNE private repository.
 Access to TUNE contents will be granted temporarily and on an individual basis. 
-Please contact silvano.buogo@cnr.it to obtain contents related to TUNE.
+Please contact silvano.buogo@cnr.it to obtain more contents related to TUNE.
 
 TUNE is a standalone Windows (R) application developed under Matlab (R) for analysis of underwater audio files in WAV format.
 
